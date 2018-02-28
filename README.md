@@ -1,4 +1,4 @@
-# Project 3: Real Robots
+# Benchmark 3: Real Robots
 Part three of the course: learning how to program actual robots and work with competition modes/input.
 
 ### ** This project is intended to be more open-ended. There are some set things that everyone needs to learn, but you should feel free to explore your own ideas and ask questions. **
