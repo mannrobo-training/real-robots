@@ -1,10 +1,11 @@
-# Benchmark 3: Real Robots
+# Project 3: Real Robots
 Part three of the course: learning how to program actual robots and work with competition modes/input.
 
-### ** This project is intended to be more open-ended. There are some set things that everyone needs to learn, but you should feel free to explore your own ideas and ask questions. **
+> **This project is intended to be more open-ended. There are some set things that everyone needs to learn, but you should feel free to explore your own ideas and ask questions.**
 
-## Objectives
-By the end of this project, you will have learned
+## Driving Questions
+
+By the end of this project, you should be able to answer the following:
 
 * How to use a VEX competition template to structure your code
   * What functionality does the VEX Competition template add?
